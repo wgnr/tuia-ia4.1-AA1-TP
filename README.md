@@ -26,4 +26,4 @@ El presente trabajo práctico consiste en la implementación de varios modelos d
 
 Se ponen a disposicion todas las caracterísiticas del dataset para que el usuario pueda ajustar los valores de las mismas y obtener la predicción de los modelos implementados.
 
-La disponibilizacion de los modelos se encuentran desplegado en [tuia-aa1-tp.streamlit.app](https://tuia-aa1-tp.streamlit.app) (El [codigo fuente](https://github.com/wgnr/tuia-ia4.1-aa1-tp) puede encontrarse en el apartado de *MLOps*).
+La disponibilizacion de los modelos se encuentran desplegado en [tuia-aa1-tp.streamlit.app](https://tuia-aa1-tp.streamlit.app) (El [codigo fuente](https://github.com/wgnr/tuia-ia4.1-aa1-tp-deploy) puede encontrarse en el apartado de *MLOps*).
