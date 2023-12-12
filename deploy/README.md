@@ -1,0 +1,1 @@
+Este es el codigo fuente generado por el apartado *MLOps* del [cuaderno](../IA4_1_AA1_TP.ipynb) usado en la aplicación desplegada en [tuia-aa1-tp.streamlit.app](https://tuia-aa1-tp.streamlit.app).
